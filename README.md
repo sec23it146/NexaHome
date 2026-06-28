@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Home Automation System
 
 A complete MERN smart home automation project with JWT authentication, role-based access, device control, automation rules, real-time notifications, activity logs, responsive dashboards, dark/light mode, charts, and CSV export.
@@ -88,3 +89,7 @@ server/src/
   routes/
   services/
 ```
+=======
+# NEXAHOME
+Smart Home Automation
+>>>>>>> 569c6f6fa856ed1031278a8ecf53ff9d05cf9e80
